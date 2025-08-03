@@ -13,7 +13,7 @@ This is my submission for **Hackathon 1** as part of the **July 2025 Cohort**. T
 ## 🌐 Live Portfolio
 
 Check out my full portfolio website here:  
-👉 [https://kimanidavid.netlify.app/] (https://kimanidavid.netlify.app/)
+👉 [https://github.com/kimanidavid](https://github.com/kimanidavid) 
 
 ## 📩 Contact
 
